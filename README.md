@@ -1,10 +1,8 @@
-# Jenkins-Zero-To-Hero
+# Jenkins-Project
 
 Are you looking forward to learn Jenkins right from Zero(installation) to Hero(Build end to end pipelines)? then you are at the right place. 
 
 ## Installation on EC2 Instance
-
-YouTube Video ->
 
 
 ![Screenshot 2023-02-01 at 5 46 14 PM](https://user-images.githubusercontent.com/43399466/216040281-6c8b89c3-8c22-4620-ad1c-8edd78eb31ae.png)
